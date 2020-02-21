@@ -1,0 +1,3 @@
+#! /bin/sh
+
+~/conf/misc/scripts/session-lock-actions.sh

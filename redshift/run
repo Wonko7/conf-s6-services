@@ -1,0 +1,1 @@
+redshift -l $(pass show stuff/location-alpha)
