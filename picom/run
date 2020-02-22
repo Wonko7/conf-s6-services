@@ -1,2 +1,2 @@
 #! /bin/sh
-picom --config ~/.compton.conf
+exec picom --config ~/.compton.conf

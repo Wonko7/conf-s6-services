@@ -1,2 +1,2 @@
 #! /bin/sh
-notif notify
+exec notif notify

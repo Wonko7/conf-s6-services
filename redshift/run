@@ -1,2 +1,2 @@
 #! /bin/sh
-redshift -l $(pass show stuff/location-alpha)
+exec redshift -l $(pass show stuff/location-alpha)

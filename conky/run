@@ -1,2 +1,2 @@
 #! /bin/sh
-conky -c ~/conf/misc/generated/$HOST.conkyrc
+exec conky -c ~/conf/misc/generated/$HOST.conkyrc

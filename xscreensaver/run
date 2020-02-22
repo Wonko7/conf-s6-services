@@ -1,2 +1,2 @@
 #! /bin/sh
-xscreensaver -no-splash
+exec xscreensaver -no-splash

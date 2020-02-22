@@ -1,2 +1,2 @@
 #! /bin/sh
-unclutter -idle 30
+exec unclutter -idle 30

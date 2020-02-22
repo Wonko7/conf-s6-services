@@ -1,2 +1,2 @@
 #! /bin/sh
-dunst -config ~/conf/misc/generated/$HOST.dunstrc
+exec dunst -config ~/conf/misc/generated/$HOST.dunstrc
