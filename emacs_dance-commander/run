@@ -1,2 +1,3 @@
 #! /bin/sh
+cd
 exec emacs --fg-daemon=DANCE_COMMANDER
