@@ -1,2 +1,0 @@
-#! /bin/sh
-exec conky -c ~/conf/misc/generated/$HOST.conkyrc

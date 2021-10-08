@@ -1,3 +1,4 @@
 #! /bin/sh
 cd
+source ~/conf/zsh/guix.zsh
 exec emacs --fg-daemon=DANCE_COMMANDER

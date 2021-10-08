@@ -1,0 +1,4 @@
+#! /bin/sh
+
+#PATH=/home/wjc/.guix-profile/bin:$PATH
+exec tint2
